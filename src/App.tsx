@@ -3,7 +3,6 @@ import Sidebar from './components/Sidebar'
 import UserPage from './components/UserPage'
 import './App.css'
 import './index.css'
-import UserProfile from './components/UserProfile'
 import Login from './components/Login'
 
 const App = () => {
